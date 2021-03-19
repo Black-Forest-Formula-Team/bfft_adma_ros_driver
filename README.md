@@ -1,3 +1,4 @@
+# Not updated anymore, we switched to CAN-bus communication and created a new package. Have a look at our [CAN to ROS topic repository](https://github.com/Black-Forest-Formula-Team/bfft_can_bus_msgs_to_ros_topic)
 
 **ADMA - GPS Receiver for ROS**
 
